@@ -1,2 +1,2 @@
-# kuni
-kuni
+# ku
+ku
